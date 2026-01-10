@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Coffe Shop",
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/Coffee_Shop/main/cafeteria.png",
+      "repoUrl": "https://github.com/teixeiradlucas/Coffee_Shop",
+      "techStack": [
+        "BLOC",
+        "FLUTTER",
+        "GO ROUTER"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=M6dAq3UneuE"
+    },
+    {
+      "title": "Exemplos usando MOBX",
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/mobx_apps_flutter/main/mobx.png",
+      "repoUrl": "https://github.com/teixeiradlucas/mobx_apps_flutter",
+      "techStack": [
+        "MOBX",
+        "FLUTTER"
+      ],
+      "youtubeUrl": "https://youtube.com/shorts/lep54YCKiS8?si=46DXnvLGNs-sj2Zm"
+    }
+  ]
+}
