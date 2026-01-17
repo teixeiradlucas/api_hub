@@ -20,6 +20,15 @@
         "FLUTTER"
       ],
       "youtubeUrl": "https://youtube.com/shorts/lep54YCKiS8?si=46DXnvLGNs-sj2Zm"
+    },
+    {
+      "title": "Consulta de preço de ações da B3",
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/Invest_App/refs/heads/main/invest.png",
+      "repoUrl": "https://github.com/teixeiradlucas/Invest_App",
+      "techStack": [
+        "FLUTTER"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=1-8GRXGui3I"
     }
   ]
 }
