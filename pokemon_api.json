@@ -5,8 +5,8 @@
     "name": "Bulbasaur",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "0.71 m",
     "weight": "6.9 kg",
@@ -18,10 +18,10 @@
     "spawn_time": "20:00",
     "multipliers": [1.58],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "002",
@@ -36,8 +36,8 @@
     "name": "Ivysaur",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "0.99 m",
     "weight": "13.0 kg",
@@ -52,10 +52,10 @@
       1.6
     ],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "001",
@@ -71,8 +71,8 @@
     "name": "Venusaur",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "2.01 m",
     "weight": "100.0 kg",
@@ -83,10 +83,10 @@
     "spawn_time": "11:30",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "001",
@@ -101,7 +101,7 @@
     "name": "Charmander",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "0.61 m",
     "weight": "8.5 kg",
@@ -113,9 +113,9 @@
     "spawn_time": "08:45",
     "multipliers": [1.65],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "005",
@@ -130,7 +130,7 @@
     "name": "Charmeleon",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "1.09 m",
     "weight": "19.0 kg",
@@ -142,9 +142,9 @@
     "spawn_time": "19:00",
     "multipliers": [1.79],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "004",
@@ -160,8 +160,8 @@
     "name": "Charizard",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "type": [
-      "Fire",
-      "Flying"
+      "Fogo",
+      "Voador"
     ],
     "height": "1.70 m",
     "weight": "90.5 kg",
@@ -172,9 +172,9 @@
     "spawn_time": "13:34",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Electric",
-      "Rock"
+      "Água",
+      "Elétrico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "004",
@@ -189,7 +189,7 @@
     "name": "Squirtle",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.51 m",
     "weight": "9.0 kg",
@@ -201,8 +201,8 @@
     "spawn_time": "04:25",
     "multipliers": [2.1],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "008",
@@ -217,7 +217,7 @@
     "name": "Wartortle",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.99 m",
     "weight": "22.5 kg",
@@ -229,8 +229,8 @@
     "spawn_time": "07:02",
     "multipliers": [1.4],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "007",
@@ -246,7 +246,7 @@
     "name": "Blastoise",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "1.60 m",
     "weight": "85.5 kg",
@@ -257,8 +257,8 @@
     "spawn_time": "00:06",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "007",
@@ -273,7 +273,7 @@
     "name": "Caterpie",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
     "type": [
-      "Bug"
+      "Inseto"
     ],
     "height": "0.30 m",
     "weight": "2.9 kg",
@@ -285,9 +285,9 @@
     "spawn_time": "16:35",
     "multipliers": [1.05],
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "011",
@@ -302,7 +302,7 @@
     "name": "Metapod",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "type": [
-      "Bug"
+      "Inseto"
     ],
     "height": "0.71 m",
     "weight": "9.9 kg",
@@ -317,9 +317,9 @@
       3.79
     ],
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "010",
@@ -335,8 +335,8 @@
     "name": "Butterfree",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
     "type": [
-      "Bug",
-      "Flying"
+      "Inseto",
+      "Voador"
     ],
     "height": "1.09 m",
     "weight": "32.0 kg",
@@ -347,11 +347,11 @@
     "spawn_time": "05:23",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Electric",
-      "Ice",
-      "Flying",
-      "Rock"
+      "Fogo",
+      "Elétrico",
+      "Gelo",
+      "Voador",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "010",
@@ -366,8 +366,8 @@
     "name": "Weedle",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "type": [
-      "Bug",
-      "Poison"
+      "Inseto",
+      "Venenoso"
     ],
     "height": "0.30 m",
     "weight": "3.2 kg",
@@ -382,10 +382,10 @@
       1.09
     ],
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Psychic",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Psíquico",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "014",
@@ -400,8 +400,8 @@
     "name": "Kakuna",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "type": [
-      "Bug",
-      "Poison"
+      "Inseto",
+      "Venenoso"
     ],
     "height": "0.61 m",
     "weight": "10.0 kg",
@@ -416,10 +416,10 @@
       3.41
     ],
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Psychic",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Psíquico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "013",
@@ -435,8 +435,8 @@
     "name": "Beedrill",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "type": [
-      "Bug",
-      "Poison"
+      "Inseto",
+      "Venenoso"
     ],
     "height": "0.99 m",
     "weight": "29.5 kg",
@@ -447,10 +447,10 @@
     "spawn_time": "04:50",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Psychic",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Psíquico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "013",
@@ -466,7 +466,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "0.30 m",
     "weight": "1.8 kg",
@@ -481,8 +481,8 @@
       1.92
     ],
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "017",
@@ -498,7 +498,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "1.09 m",
     "weight": "30.0 kg",
@@ -510,8 +510,8 @@
     "spawn_time": "01:30",
     "multipliers": [1.79],
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "016",
@@ -528,7 +528,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "1.50 m",
     "weight": "39.5 kg",
@@ -539,8 +539,8 @@
     "spawn_time": "01:50",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "016",
@@ -570,7 +570,7 @@
       2.73
     ],
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "next_evolution": [{
       "num": "020",
@@ -593,7 +593,7 @@
     "spawn_time": "01:56",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "prev_evolution": [{
       "num": "019",
@@ -606,7 +606,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "0.30 m",
     "weight": "2.0 kg",
@@ -621,8 +621,8 @@
       2.68
     ],
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "022",
@@ -635,7 +635,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "1.19 m",
     "weight": "38.0 kg",
@@ -646,8 +646,8 @@
     "spawn_time": "01:11",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "021",
@@ -659,7 +659,7 @@
     "name": "Ekans",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "2.01 m",
     "weight": "6.9 kg",
@@ -674,8 +674,8 @@
       2.27
     ],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "024",
@@ -687,7 +687,7 @@
     "name": "Arbok",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "3.51 m",
     "weight": "65.0 kg",
@@ -698,8 +698,8 @@
     "spawn_time": "01:50",
     "multipliers": null,
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "023",
@@ -711,7 +711,7 @@
     "name": "Pikachu",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "0.41 m",
     "weight": "6.0 kg",
@@ -723,7 +723,7 @@
     "spawn_time": "04:00",
     "multipliers": [2.34],
     "weaknesses": [
-      "Ground"
+      "Terra"
     ],
     "next_evolution": [{
       "num": "026",
@@ -735,7 +735,7 @@
     "name": "Raichu",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "0.79 m",
     "weight": "30.0 kg",
@@ -746,7 +746,7 @@
     "spawn_time": "23:58",
     "multipliers": null,
     "weaknesses": [
-      "Ground"
+      "Terra"
     ],
     "prev_evolution": [{
       "num": "025",
@@ -758,7 +758,7 @@
     "name": "Sandshrew",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "type": [
-      "Ground"
+      "Terra"
     ],
     "height": "0.61 m",
     "weight": "12.0 kg",
@@ -770,9 +770,9 @@
     "spawn_time": "01:58",
     "multipliers": [2.45],
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice"
+      "Água",
+      "Grama",
+      "Gelo"
     ],
     "next_evolution": [{
       "num": "028",
@@ -784,7 +784,7 @@
     "name": "Sandslash",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
     "type": [
-      "Ground"
+      "Terra"
     ],
     "height": "0.99 m",
     "weight": "29.5 kg",
@@ -795,9 +795,9 @@
     "spawn_time": "12:34",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice"
+      "Água",
+      "Grama",
+      "Gelo"
     ],
     "prev_evolution": [{
       "num": "027",
@@ -809,7 +809,7 @@
     "name": "Nidoran ♀ (Female)",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "0.41 m",
     "weight": "7.0 kg",
@@ -824,8 +824,8 @@
       2.48
     ],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "030",
@@ -840,7 +840,7 @@
     "name": "Nidorina",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "0.79 m",
     "weight": "20.0 kg",
@@ -855,8 +855,8 @@
       2.48
     ],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "029",
@@ -872,8 +872,8 @@
     "name": "Nidoqueen",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
     "type": [
-      "Poison",
-      "Ground"
+      "Venenoso",
+      "Terra"
     ],
     "height": "1.30 m",
     "weight": "60.0 kg",
@@ -884,10 +884,10 @@
     "spawn_time": "12:35",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ice",
-      "Ground",
-      "Psychic"
+      "Água",
+      "Gelo",
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "029",
@@ -902,7 +902,7 @@
     "name": "Nidoran ♂ (Male)",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "0.51 m",
     "weight": "9.0 kg",
@@ -917,8 +917,8 @@
       1.7
     ],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "033",
@@ -933,7 +933,7 @@
     "name": "Nidorino",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "0.89 m",
     "weight": "19.5 kg",
@@ -945,8 +945,8 @@
     "spawn_time": "09:02",
     "multipliers": [1.83],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "032",
@@ -962,8 +962,8 @@
     "name": "Nidoking",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "type": [
-      "Poison",
-      "Ground"
+      "Venenoso",
+      "Terra"
     ],
     "height": "1.40 m",
     "weight": "62.0 kg",
@@ -974,10 +974,10 @@
     "spawn_time": "12:16",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ice",
-      "Ground",
-      "Psychic"
+      "Água",
+      "Gelo",
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "032",
@@ -989,14 +989,14 @@
   }, {
     "id": 35,
     "num": "035",
-    "name": "Clefairy",
+    "name": "CleFada",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
     "type": [
       "Normal"
     ],
     "height": "0.61 m",
     "weight": "7.5 kg",
-    "candy": "Clefairy Candy",
+    "candy": "CleFada Candy",
     "candy_count": 50,
     "egg": "2 km",
     "spawn_chance": 0.92,
@@ -1007,7 +1007,7 @@
       2.14
     ],
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "next_evolution": [{
       "num": "036",
@@ -1023,18 +1023,18 @@
     ],
     "height": "1.30 m",
     "weight": "40.0 kg",
-    "candy": "Clefairy Candy",
+    "candy": "CleFada Candy",
     "egg": "Not in Eggs",
     "spawn_chance": 0.012,
     "avg_spawns": 1.2,
     "spawn_time": "03:29",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "prev_evolution": [{
       "num": "035",
-      "name": "Clefairy"
+      "name": "CleFada"
     }]
   }, {
     "id": 37,
@@ -1042,7 +1042,7 @@
     "name": "Vulpix",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "0.61 m",
     "weight": "9.9 kg",
@@ -1057,9 +1057,9 @@
       2.81
     ],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "038",
@@ -1071,7 +1071,7 @@
     "name": "Ninetales",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "1.09 m",
     "weight": "19.9 kg",
@@ -1082,9 +1082,9 @@
     "spawn_time": "01:32",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "037",
@@ -1108,7 +1108,7 @@
     "spawn_time": "08:46",
     "multipliers": [1.85],
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "next_evolution": [{
       "num": "040",
@@ -1131,7 +1131,7 @@
     "spawn_time": "12:28",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "prev_evolution": [{
       "num": "039",
@@ -1143,8 +1143,8 @@
     "name": "Zubat",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
     "type": [
-      "Poison",
-      "Flying"
+      "Venenoso",
+      "Voador"
     ],
     "height": "0.79 m",
     "weight": "7.5 kg",
@@ -1159,10 +1159,10 @@
       3.67
     ],
     "weaknesses": [
-      "Electric",
-      "Ice",
-      "Psychic",
-      "Rock"
+      "Elétrico",
+      "Gelo",
+      "Psíquico",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "042",
@@ -1174,8 +1174,8 @@
     "name": "Golbat",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
     "type": [
-      "Poison",
-      "Flying"
+      "Venenoso",
+      "Voador"
     ],
     "height": "1.60 m",
     "weight": "55.0 kg",
@@ -1186,10 +1186,10 @@
     "spawn_time": "02:15",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Ice",
-      "Psychic",
-      "Rock"
+      "Elétrico",
+      "Gelo",
+      "Psíquico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "041",
@@ -1201,8 +1201,8 @@
     "name": "Oddish",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "0.51 m",
     "weight": "5.4 kg",
@@ -1214,10 +1214,10 @@
     "spawn_time": "03:58",
     "multipliers": [1.5],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "044",
@@ -1232,8 +1232,8 @@
     "name": "Gloom",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "0.79 m",
     "weight": "8.6 kg",
@@ -1245,10 +1245,10 @@
     "spawn_time": "11:33",
     "multipliers": [1.49],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "043",
@@ -1264,8 +1264,8 @@
     "name": "Vileplume",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "1.19 m",
     "weight": "18.6 kg",
@@ -1276,10 +1276,10 @@
     "spawn_time": "23:58",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "043",
@@ -1294,8 +1294,8 @@
     "name": "Paras",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "type": [
-      "Bug",
-      "Grass"
+      "Inseto",
+      "Grama"
     ],
     "height": "0.30 m",
     "weight": "5.4 kg",
@@ -1307,12 +1307,12 @@
     "spawn_time": "01:42",
     "multipliers": [2.02],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
-      "Bug",
-      "Rock"
+      "Fogo",
+      "Gelo",
+      "Venenoso",
+      "Voador",
+      "Inseto",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "047",
@@ -1324,8 +1324,8 @@
     "name": "Parasect",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
     "type": [
-      "Bug",
-      "Grass"
+      "Inseto",
+      "Grama"
     ],
     "height": "0.99 m",
     "weight": "29.5 kg",
@@ -1336,12 +1336,12 @@
     "spawn_time": "01:22",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
-      "Bug",
-      "Rock"
+      "Fogo",
+      "Gelo",
+      "Venenoso",
+      "Voador",
+      "Inseto",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "046",
@@ -1353,8 +1353,8 @@
     "name": "Venonat",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "type": [
-      "Bug",
-      "Poison"
+      "Inseto",
+      "Venenoso"
     ],
     "height": "0.99 m",
     "weight": "30.0 kg",
@@ -1369,10 +1369,10 @@
       1.9
     ],
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Psychic",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Psíquico",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "049",
@@ -1384,8 +1384,8 @@
     "name": "Venomoth",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
     "type": [
-      "Bug",
-      "Poison"
+      "Inseto",
+      "Venenoso"
     ],
     "height": "1.50 m",
     "weight": "12.5 kg",
@@ -1396,10 +1396,10 @@
     "spawn_time": "23:40",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Psychic",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Psíquico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "048",
@@ -1411,7 +1411,7 @@
     "name": "Diglett",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
     "type": [
-      "Ground"
+      "Terra"
     ],
     "height": "0.20 m",
     "weight": "0.8 kg",
@@ -1423,9 +1423,9 @@
     "spawn_time": "02:22",
     "multipliers": [2.69],
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice"
+      "Água",
+      "Grama",
+      "Gelo"
     ],
     "next_evolution": [{
       "num": "051",
@@ -1437,7 +1437,7 @@
     "name": "Dugtrio",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
     "type": [
-      "Ground"
+      "Terra"
     ],
     "height": "0.71 m",
     "weight": "33.3 kg",
@@ -1448,9 +1448,9 @@
     "spawn_time": "12:37",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice"
+      "Água",
+      "Grama",
+      "Gelo"
     ],
     "prev_evolution": [{
       "num": "050",
@@ -1474,7 +1474,7 @@
     "spawn_time": "02:54",
     "multipliers": [1.98],
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "next_evolution": [{
       "num": "053",
@@ -1497,7 +1497,7 @@
     "spawn_time": "02:44",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "prev_evolution": [{
       "num": "052",
@@ -1509,7 +1509,7 @@
     "name": "Psyduck",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.79 m",
     "weight": "19.6 kg",
@@ -1521,8 +1521,8 @@
     "spawn_time": "03:41",
     "multipliers": [2.27],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "055",
@@ -1534,7 +1534,7 @@
     "name": "Golduck",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "1.70 m",
     "weight": "76.6 kg",
@@ -1545,8 +1545,8 @@
     "spawn_time": "23:06",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "054",
@@ -1558,7 +1558,7 @@
     "name": "Mankey",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "0.51 m",
     "weight": "28.0 kg",
@@ -1573,9 +1573,9 @@
       2.28
     ],
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ],
     "next_evolution": [{
       "num": "057",
@@ -1587,7 +1587,7 @@
     "name": "Primeape",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "0.99 m",
     "weight": "32.0 kg",
@@ -1598,9 +1598,9 @@
     "spawn_time": "12:33",
     "multipliers": null,
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ],
     "prev_evolution": [{
       "num": "056",
@@ -1612,7 +1612,7 @@
     "name": "Growlithe",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "0.71 m",
     "weight": "19.0 kg",
@@ -1627,9 +1627,9 @@
       2.36
     ],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "059",
@@ -1641,7 +1641,7 @@
     "name": "Arcanine",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "1.91 m",
     "weight": "155.0 kg",
@@ -1652,9 +1652,9 @@
     "spawn_time": "03:11",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "058",
@@ -1666,7 +1666,7 @@
     "name": "Poliwag",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.61 m",
     "weight": "12.4 kg",
@@ -1681,8 +1681,8 @@
       1.73
     ],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "061",
@@ -1697,7 +1697,7 @@
     "name": "Poliwhirl",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.99 m",
     "weight": "20.0 kg",
@@ -1709,8 +1709,8 @@
     "spawn_time": "09:14",
     "multipliers": [1.95],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "060",
@@ -1726,8 +1726,8 @@
     "name": "Poliwrath",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
     "type": [
-      "Water",
-      "Fighting"
+      "Água",
+      "Lutador"
     ],
     "height": "1.30 m",
     "weight": "54.0 kg",
@@ -1738,11 +1738,11 @@
     "spawn_time": "01:32",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Elétrico",
+      "Grama",
+      "Voador",
+      "Psíquico",
+      "Fada"
     ],
     "prev_evolution": [{
       "num": "060",
@@ -1757,7 +1757,7 @@
     "name": "Abra",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "0.89 m",
     "weight": "19.5 kg",
@@ -1772,9 +1772,9 @@
       1.95
     ],
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "next_evolution": [{
       "num": "064",
@@ -1789,7 +1789,7 @@
     "name": "Kadabra",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "1.30 m",
     "weight": "56.5 kg",
@@ -1801,9 +1801,9 @@
     "spawn_time": "11:25",
     "multipliers": [1.4],
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "063",
@@ -1819,7 +1819,7 @@
     "name": "Alakazam",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "1.50 m",
     "weight": "48.0 kg",
@@ -1830,9 +1830,9 @@
     "spawn_time": "12:33",
     "multipliers": null,
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "063",
@@ -1847,7 +1847,7 @@
     "name": "Machop",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "0.79 m",
     "weight": "19.5 kg",
@@ -1862,9 +1862,9 @@
       1.65
     ],
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ],
     "next_evolution": [{
       "num": "067",
@@ -1879,7 +1879,7 @@
     "name": "Machoke",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "1.50 m",
     "weight": "70.5 kg",
@@ -1891,9 +1891,9 @@
     "spawn_time": "10:32",
     "multipliers": [1.7],
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ],
     "prev_evolution": [{
       "num": "066",
@@ -1909,7 +1909,7 @@
     "name": "Machamp",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "1.60 m",
     "weight": "130.0 kg",
@@ -1920,9 +1920,9 @@
     "spawn_time": "02:55",
     "multipliers": null,
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ],
     "prev_evolution": [{
       "num": "066",
@@ -1937,8 +1937,8 @@
     "name": "Bellsprout",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "0.71 m",
     "weight": "4.0 kg",
@@ -1950,10 +1950,10 @@
     "spawn_time": "04:10",
     "multipliers": [1.57],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "070",
@@ -1968,8 +1968,8 @@
     "name": "Weepinbell",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "0.99 m",
     "weight": "6.4 kg",
@@ -1981,10 +1981,10 @@
     "spawn_time": "09:45",
     "multipliers": [1.59],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "069",
@@ -2000,8 +2000,8 @@
     "name": "Victreebel",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Grama",
+      "Venenoso"
     ],
     "height": "1.70 m",
     "weight": "15.5 kg",
@@ -2012,10 +2012,10 @@
     "spawn_time": "12:19",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fogo",
+      "Gelo",
+      "Voador",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "069",
@@ -2030,8 +2030,8 @@
     "name": "Tentacool",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
     "type": [
-      "Water",
-      "Poison"
+      "Água",
+      "Venenoso"
     ],
     "height": "0.89 m",
     "weight": "45.5 kg",
@@ -2043,9 +2043,9 @@
     "spawn_time": "03:20",
     "multipliers": [2.52],
     "weaknesses": [
-      "Electric",
-      "Ground",
-      "Psychic"
+      "Elétrico",
+      "Terra",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "073",
@@ -2057,8 +2057,8 @@
     "name": "Tentacruel",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
     "type": [
-      "Water",
-      "Poison"
+      "Água",
+      "Venenoso"
     ],
     "height": "1.60 m",
     "weight": "55.0 kg",
@@ -2069,9 +2069,9 @@
     "spawn_time": "23:36",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Ground",
-      "Psychic"
+      "Elétrico",
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "072",
@@ -2083,8 +2083,8 @@
     "name": "Geodude",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
     "type": [
-      "Rock",
-      "Ground"
+      "Pedra",
+      "Terra"
     ],
     "height": "0.41 m",
     "weight": "20.0 kg",
@@ -2099,12 +2099,12 @@
       1.76
     ],
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice",
-      "Fighting",
-      "Ground",
-      "Steel"
+      "Água",
+      "Grama",
+      "Gelo",
+      "Lutador",
+      "Terra",
+      "Aço"
     ],
     "next_evolution": [{
       "num": "075",
@@ -2119,8 +2119,8 @@
     "name": "Graveler",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
     "type": [
-      "Rock",
-      "Ground"
+      "Pedra",
+      "Terra"
     ],
     "height": "0.99 m",
     "weight": "105.0 kg",
@@ -2135,12 +2135,12 @@
       1.72
     ],
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice",
-      "Fighting",
-      "Ground",
-      "Steel"
+      "Água",
+      "Grama",
+      "Gelo",
+      "Lutador",
+      "Terra",
+      "Aço"
     ],
     "prev_evolution": [{
       "num": "074",
@@ -2156,8 +2156,8 @@
     "name": "Golem",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "type": [
-      "Rock",
-      "Ground"
+      "Pedra",
+      "Terra"
     ],
     "height": "1.40 m",
     "weight": "300.0 kg",
@@ -2168,12 +2168,12 @@
     "spawn_time": "12:16",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice",
-      "Fighting",
-      "Ground",
-      "Steel"
+      "Água",
+      "Grama",
+      "Gelo",
+      "Lutador",
+      "Terra",
+      "Aço"
     ],
     "prev_evolution": [{
       "num": "074",
@@ -2188,7 +2188,7 @@
     "name": "Ponyta",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "0.99 m",
     "weight": "30.0 kg",
@@ -2203,9 +2203,9 @@
       1.5
     ],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "078",
@@ -2217,7 +2217,7 @@
     "name": "Rapidash",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "1.70 m",
     "weight": "95.0 kg",
@@ -2228,9 +2228,9 @@
     "spawn_time": "04:00",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "077",
@@ -2242,8 +2242,8 @@
     "name": "Slowpoke",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
     "type": [
-      "Water",
-      "Psychic"
+      "Água",
+      "Psíquico"
     ],
     "height": "1.19 m",
     "weight": "36.0 kg",
@@ -2255,11 +2255,11 @@
     "spawn_time": "07:12",
     "multipliers": [2.21],
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Elétrico",
+      "Grama",
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "next_evolution": [{
       "num": "080",
@@ -2271,8 +2271,8 @@
     "name": "Slowbro",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
     "type": [
-      "Water",
-      "Psychic"
+      "Água",
+      "Psíquico"
     ],
     "height": "1.60 m",
     "weight": "78.5 kg",
@@ -2283,11 +2283,11 @@
     "spawn_time": "02:56",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Elétrico",
+      "Grama",
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "079",
@@ -2299,7 +2299,7 @@
     "name": "Magnemite",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "0.30 m",
     "weight": "6.0 kg",
@@ -2314,9 +2314,9 @@
       2.17
     ],
     "weaknesses": [
-      "Fire",
-      "Water",
-      "Ground"
+      "Fogo",
+      "Água",
+      "Terra"
     ],
     "next_evolution": [{
       "num": "082",
@@ -2328,7 +2328,7 @@
     "name": "Magneton",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "0.99 m",
     "weight": "60.0 kg",
@@ -2339,9 +2339,9 @@
     "spawn_time": "15:25",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Water",
-      "Ground"
+      "Fogo",
+      "Água",
+      "Terra"
     ],
     "prev_evolution": [{
       "num": "081",
@@ -2354,7 +2354,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "0.79 m",
     "weight": "15.0 kg",
@@ -2365,8 +2365,8 @@
     "spawn_time": "01:09",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ]
   }, {
     "id": 84,
@@ -2375,7 +2375,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "1.40 m",
     "weight": "39.2 kg",
@@ -2390,8 +2390,8 @@
       2.24
     ],
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "next_evolution": [{
       "num": "085",
@@ -2404,7 +2404,7 @@
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
     "type": [
       "Normal",
-      "Flying"
+      "Voador"
     ],
     "height": "1.80 m",
     "weight": "85.2 kg",
@@ -2415,8 +2415,8 @@
     "spawn_time": "02:12",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "084",
@@ -2428,7 +2428,7 @@
     "name": "Seel",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "1.09 m",
     "weight": "90.0 kg",
@@ -2443,8 +2443,8 @@
       1.96
     ],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "087",
@@ -2456,8 +2456,8 @@
     "name": "Dewgong",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "type": [
-      "Water",
-      "Ice"
+      "Água",
+      "Gelo"
     ],
     "height": "1.70 m",
     "weight": "120.0 kg",
@@ -2468,10 +2468,10 @@
     "spawn_time": "06:04",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Rock"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "086",
@@ -2483,7 +2483,7 @@
     "name": "Grimer",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "0.89 m",
     "weight": "30.0 kg",
@@ -2495,8 +2495,8 @@
     "spawn_time": "15:11",
     "multipliers": [2.44],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "089",
@@ -2508,7 +2508,7 @@
     "name": "Muk",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "1.19 m",
     "weight": "30.0 kg",
@@ -2519,8 +2519,8 @@
     "spawn_time": "01:28",
     "multipliers": null,
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "088",
@@ -2532,7 +2532,7 @@
     "name": "Shellder",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.30 m",
     "weight": "4.0 kg",
@@ -2544,8 +2544,8 @@
     "spawn_time": "07:39",
     "multipliers": [2.65],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "091",
@@ -2557,8 +2557,8 @@
     "name": "Cloyster",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
     "type": [
-      "Water",
-      "Ice"
+      "Água",
+      "Gelo"
     ],
     "height": "1.50 m",
     "weight": "132.5 kg",
@@ -2569,10 +2569,10 @@
     "spawn_time": "02:33",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Rock"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "090",
@@ -2584,8 +2584,8 @@
     "name": "Gastly",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
     "type": [
-      "Ghost",
-      "Poison"
+      "Fantasma",
+      "Venenoso"
     ],
     "height": "1.30 m",
     "weight": "0.1 kg",
@@ -2597,10 +2597,10 @@
     "spawn_time": "04:21",
     "multipliers": [1.78],
     "weaknesses": [
-      "Ground",
-      "Psychic",
-      "Ghost",
-      "Dark"
+      "Terra",
+      "Psíquico",
+      "Fantasma",
+      "Sombrio"
     ],
     "next_evolution": [{
       "num": "093",
@@ -2615,8 +2615,8 @@
     "name": "Haunter",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
     "type": [
-      "Ghost",
-      "Poison"
+      "Fantasma",
+      "Venenoso"
     ],
     "height": "1.60 m",
     "weight": "0.1 kg",
@@ -2631,10 +2631,10 @@
       1.8
     ],
     "weaknesses": [
-      "Ground",
-      "Psychic",
-      "Ghost",
-      "Dark"
+      "Terra",
+      "Psíquico",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "092",
@@ -2650,8 +2650,8 @@
     "name": "Gengar",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "type": [
-      "Ghost",
-      "Poison"
+      "Fantasma",
+      "Venenoso"
     ],
     "height": "1.50 m",
     "weight": "40.5 kg",
@@ -2662,10 +2662,10 @@
     "spawn_time": "03:55",
     "multipliers": null,
     "weaknesses": [
-      "Ground",
-      "Psychic",
-      "Ghost",
-      "Dark"
+      "Terra",
+      "Psíquico",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "092",
@@ -2680,8 +2680,8 @@
     "name": "Onix",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
     "type": [
-      "Rock",
-      "Ground"
+      "Pedra",
+      "Terra"
     ],
     "height": "8.79 m",
     "weight": "210.0 kg",
@@ -2692,12 +2692,12 @@
     "spawn_time": "01:18",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice",
-      "Fighting",
-      "Ground",
-      "Steel"
+      "Água",
+      "Grama",
+      "Gelo",
+      "Lutador",
+      "Terra",
+      "Aço"
     ]
   }, {
     "id": 96,
@@ -2705,7 +2705,7 @@
     "name": "Drowzee",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "0.99 m",
     "weight": "32.4 kg",
@@ -2720,9 +2720,9 @@
       2.09
     ],
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "next_evolution": [{
       "num": "097",
@@ -2734,7 +2734,7 @@
     "name": "Hypno",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "1.60 m",
     "weight": "75.6 kg",
@@ -2745,9 +2745,9 @@
     "spawn_time": "02:17",
     "multipliers": null,
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "096",
@@ -2759,7 +2759,7 @@
     "name": "Krabby",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.41 m",
     "weight": "6.5 kg",
@@ -2774,8 +2774,8 @@
       2.4
     ],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "099",
@@ -2787,7 +2787,7 @@
     "name": "Kingler",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "1.30 m",
     "weight": "60.0 kg",
@@ -2798,8 +2798,8 @@
     "spawn_time": "03:44",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "098",
@@ -2811,7 +2811,7 @@
     "name": "Voltorb",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "0.51 m",
     "weight": "10.4 kg",
@@ -2826,7 +2826,7 @@
       2.02
     ],
     "weaknesses": [
-      "Ground"
+      "Terra"
     ],
     "next_evolution": [{
       "num": "101",
@@ -2838,7 +2838,7 @@
     "name": "Electrode",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "1.19 m",
     "weight": "66.6 kg",
@@ -2849,7 +2849,7 @@
     "spawn_time": "04:10",
     "multipliers": null,
     "weaknesses": [
-      "Ground"
+      "Terra"
     ],
     "prev_evolution": [{
       "num": "100",
@@ -2861,8 +2861,8 @@
     "name": "Exeggcute",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
     "type": [
-      "Grass",
-      "Psychic"
+      "Grama",
+      "Psíquico"
     ],
     "height": "0.41 m",
     "weight": "2.5 kg",
@@ -2877,13 +2877,13 @@
       3.18
     ],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Fogo",
+      "Gelo",
+      "Venenoso",
+      "Voador",
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "next_evolution": [{
       "num": "103",
@@ -2895,8 +2895,8 @@
     "name": "Exeggutor",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
     "type": [
-      "Grass",
-      "Psychic"
+      "Grama",
+      "Psíquico"
     ],
     "height": "2.01 m",
     "weight": "120.0 kg",
@@ -2907,13 +2907,13 @@
     "spawn_time": "12:34",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Fogo",
+      "Gelo",
+      "Venenoso",
+      "Voador",
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "102",
@@ -2925,7 +2925,7 @@
     "name": "Cubone",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
     "type": [
-      "Ground"
+      "Terra"
     ],
     "height": "0.41 m",
     "weight": "6.5 kg",
@@ -2937,9 +2937,9 @@
     "spawn_time": "01:51",
     "multipliers": [1.67],
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice"
+      "Água",
+      "Grama",
+      "Gelo"
     ],
     "next_evolution": [{
       "num": "105",
@@ -2951,7 +2951,7 @@
     "name": "Marowak",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "type": [
-      "Ground"
+      "Terra"
     ],
     "height": "0.99 m",
     "weight": "45.0 kg",
@@ -2962,9 +2962,9 @@
     "spawn_time": "03:59",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice"
+      "Água",
+      "Grama",
+      "Gelo"
     ],
     "prev_evolution": [{
       "num": "104",
@@ -2976,7 +2976,7 @@
     "name": "Hitmonlee",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "1.50 m",
     "weight": "49.8 kg",
@@ -2987,9 +2987,9 @@
     "spawn_time": "03:59",
     "multipliers": null,
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ]
   }, {
     "id": 107,
@@ -2997,7 +2997,7 @@
     "name": "Hitmonchan",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "type": [
-      "Fighting"
+      "Lutador"
     ],
     "height": "1.40 m",
     "weight": "50.2 kg",
@@ -3008,9 +3008,9 @@
     "spawn_time": "05:58",
     "multipliers": null,
     "weaknesses": [
-      "Flying",
-      "Psychic",
-      "Fairy"
+      "Voador",
+      "Psíquico",
+      "Fada"
     ]
   }, {
     "id": 108,
@@ -3029,7 +3029,7 @@
     "spawn_time": "02:46",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 109,
@@ -3037,7 +3037,7 @@
     "name": "Koffing",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "0.61 m",
     "weight": "1.0 kg",
@@ -3049,8 +3049,8 @@
     "spawn_time": "08:16",
     "multipliers": [1.11],
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "next_evolution": [{
       "num": "110",
@@ -3062,7 +3062,7 @@
     "name": "Weezing",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
     "type": [
-      "Poison"
+      "Venenoso"
     ],
     "height": "1.19 m",
     "weight": "9.5 kg",
@@ -3073,8 +3073,8 @@
     "spawn_time": "12:17",
     "multipliers": null,
     "weaknesses": [
-      "Ground",
-      "Psychic"
+      "Terra",
+      "Psíquico"
     ],
     "prev_evolution": [{
       "num": "109",
@@ -3086,8 +3086,8 @@
     "name": "Rhyhorn",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
     "type": [
-      "Ground",
-      "Rock"
+      "Terra",
+      "Pedra"
     ],
     "height": "0.99 m",
     "weight": "115.0 kg",
@@ -3099,12 +3099,12 @@
     "spawn_time": "03:21",
     "multipliers": [1.91],
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice",
-      "Fighting",
-      "Ground",
-      "Steel"
+      "Água",
+      "Grama",
+      "Gelo",
+      "Lutador",
+      "Terra",
+      "Aço"
     ],
     "next_evolution": [{
       "num": "112",
@@ -3116,8 +3116,8 @@
     "name": "Rhydon",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
     "type": [
-      "Ground",
-      "Rock"
+      "Terra",
+      "Pedra"
     ],
     "height": "1.91 m",
     "weight": "120.0 kg",
@@ -3128,12 +3128,12 @@
     "spawn_time": "05:50",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Grass",
-      "Ice",
-      "Fighting",
-      "Ground",
-      "Steel"
+      "Água",
+      "Grama",
+      "Gelo",
+      "Lutador",
+      "Terra",
+      "Aço"
     ],
     "prev_evolution": [{
       "num": "111",
@@ -3156,7 +3156,7 @@
     "spawn_time": "04:46",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 114,
@@ -3164,7 +3164,7 @@
     "name": "Tangela",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "type": [
-      "Grass"
+      "Grama"
     ],
     "height": "0.99 m",
     "weight": "35.0 kg",
@@ -3175,11 +3175,11 @@
     "spawn_time": "23:13",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Poison",
-      "Flying",
-      "Bug"
+      "Fogo",
+      "Gelo",
+      "Venenoso",
+      "Voador",
+      "Inseto"
     ]
   }, {
     "id": 115,
@@ -3198,7 +3198,7 @@
     "spawn_time": "02:40",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 116,
@@ -3206,7 +3206,7 @@
     "name": "Horsea",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.41 m",
     "weight": "8.0 kg",
@@ -3218,8 +3218,8 @@
     "spawn_time": "02:53",
     "multipliers": [2.23],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "117",
@@ -3231,7 +3231,7 @@
     "name": "Seadra",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "1.19 m",
     "weight": "25.0 kg",
@@ -3242,8 +3242,8 @@
     "spawn_time": "03:18",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "116",
@@ -3255,7 +3255,7 @@
     "name": "Goldeen",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.61 m",
     "weight": "15.0 kg",
@@ -3270,8 +3270,8 @@
       2.2
     ],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "119",
@@ -3283,7 +3283,7 @@
     "name": "Seaking",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "1.30 m",
     "weight": "39.0 kg",
@@ -3294,8 +3294,8 @@
     "spawn_time": "05:21",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "118",
@@ -3307,7 +3307,7 @@
     "name": "Staryu",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.79 m",
     "weight": "34.5 kg",
@@ -3322,8 +3322,8 @@
       2.41
     ],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "121",
@@ -3335,8 +3335,8 @@
     "name": "Starmie",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "type": [
-      "Water",
-      "Psychic"
+      "Água",
+      "Psíquico"
     ],
     "height": "1.09 m",
     "weight": "80.0 kg",
@@ -3347,11 +3347,11 @@
     "spawn_time": "06:57",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Elétrico",
+      "Grama",
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ],
     "prev_evolution": [{
       "num": "120",
@@ -3363,7 +3363,7 @@
     "name": "Mr. Mime",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "1.30 m",
     "weight": "54.5 kg",
@@ -3374,9 +3374,9 @@
     "spawn_time": "01:51",
     "multipliers": null,
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ]
   }, {
     "id": 123,
@@ -3384,8 +3384,8 @@
     "name": "Scyther",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "type": [
-      "Bug",
-      "Flying"
+      "Inseto",
+      "Voador"
     ],
     "height": "1.50 m",
     "weight": "56.0 kg",
@@ -3396,11 +3396,11 @@
     "spawn_time": "05:43",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Electric",
-      "Ice",
-      "Flying",
-      "Rock"
+      "Fogo",
+      "Elétrico",
+      "Gelo",
+      "Voador",
+      "Pedra"
     ]
   }, {
     "id": 124,
@@ -3408,8 +3408,8 @@
     "name": "Jynx",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
     "type": [
-      "Ice",
-      "Psychic"
+      "Gelo",
+      "Psíquico"
     ],
     "height": "1.40 m",
     "weight": "40.6 kg",
@@ -3420,12 +3420,12 @@
     "spawn_time": "05:41",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Bug",
-      "Rock",
-      "Ghost",
-      "Dark",
-      "Steel"
+      "Fogo",
+      "Inseto",
+      "Pedra",
+      "Fantasma",
+      "Sombrio",
+      "Aço"
     ]
   }, {
     "id": 125,
@@ -3433,7 +3433,7 @@
     "name": "Electabuzz",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "1.09 m",
     "weight": "30.0 kg",
@@ -3444,7 +3444,7 @@
     "spawn_time": "04:28",
     "multipliers": null,
     "weaknesses": [
-      "Ground"
+      "Terra"
     ]
   }, {
     "id": 126,
@@ -3452,7 +3452,7 @@
     "name": "Magmar",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "1.30 m",
     "weight": "44.5 kg",
@@ -3463,9 +3463,9 @@
     "spawn_time": "20:36",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ]
   }, {
     "id": 127,
@@ -3473,7 +3473,7 @@
     "name": "Pinsir",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
     "type": [
-      "Bug"
+      "Inseto"
     ],
     "height": "1.50 m",
     "weight": "55.0 kg",
@@ -3484,9 +3484,9 @@
     "spawn_time": "03:25",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Flying",
-      "Rock"
+      "Fogo",
+      "Voador",
+      "Pedra"
     ]
   }, {
     "id": 128,
@@ -3505,7 +3505,7 @@
     "spawn_time": "00:37",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 129,
@@ -3513,7 +3513,7 @@
     "name": "Magikarp",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.89 m",
     "weight": "10.0 kg",
@@ -3528,8 +3528,8 @@
       11.8
     ],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "next_evolution": [{
       "num": "130",
@@ -3541,8 +3541,8 @@
     "name": "Gyarados",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
     "type": [
-      "Water",
-      "Flying"
+      "Água",
+      "Voador"
     ],
     "height": "6.50 m",
     "weight": "235.0 kg",
@@ -3553,8 +3553,8 @@
     "spawn_time": "02:15",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Rock"
+      "Elétrico",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "129",
@@ -3566,8 +3566,8 @@
     "name": "Lapras",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "type": [
-      "Water",
-      "Ice"
+      "Água",
+      "Gelo"
     ],
     "height": "2.49 m",
     "weight": "220.0 kg",
@@ -3578,10 +3578,10 @@
     "spawn_time": "08:59",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Rock"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Pedra"
     ]
   }, {
     "id": 132,
@@ -3600,7 +3600,7 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 133,
@@ -3623,7 +3623,7 @@
       2.64
     ],
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ],
     "next_evolution": [{
       "num": "134",
@@ -3641,7 +3641,7 @@
     "name": "Vaporeon",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "type": [
-      "Water"
+      "Água"
     ],
     "height": "0.99 m",
     "weight": "29.0 kg",
@@ -3652,8 +3652,8 @@
     "spawn_time": "10:54",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Elétrico",
+      "Grama"
     ],
     "prev_evolution": [{
       "num": "133",
@@ -3665,7 +3665,7 @@
     "name": "Jolteon",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
     "type": [
-      "Electric"
+      "Elétrico"
     ],
     "height": "0.79 m",
     "weight": "24.5 kg",
@@ -3676,7 +3676,7 @@
     "spawn_time": "02:30",
     "multipliers": null,
     "weaknesses": [
-      "Ground"
+      "Terra"
     ],
     "prev_evolution": [{
       "num": "133",
@@ -3688,7 +3688,7 @@
     "name": "Flareon",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
     "type": [
-      "Fire"
+      "Fogo"
     ],
     "height": "0.89 m",
     "weight": "25.0 kg",
@@ -3699,9 +3699,9 @@
     "spawn_time": "07:02",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Água",
+      "Terra",
+      "Pedra"
     ],
     "prev_evolution": [{
       "num": "133",
@@ -3724,7 +3724,7 @@
     "spawn_time": "02:49",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 138,
@@ -3732,8 +3732,8 @@
     "name": "Omanyte",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
     "type": [
-      "Rock",
-      "Water"
+      "Pedra",
+      "Água"
     ],
     "height": "0.41 m",
     "weight": "7.5 kg",
@@ -3745,10 +3745,10 @@
     "spawn_time": "10:23",
     "multipliers": [2.12],
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Ground"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Terra"
     ],
     "next_evolution": [{
       "num": "139",
@@ -3760,8 +3760,8 @@
     "name": "Omastar",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
     "type": [
-      "Rock",
-      "Water"
+      "Pedra",
+      "Água"
     ],
     "height": "0.99 m",
     "weight": "35.0 kg",
@@ -3772,10 +3772,10 @@
     "spawn_time": "05:04",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Ground"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Terra"
     ],
     "prev_evolution": [{
       "num": "138",
@@ -3787,8 +3787,8 @@
     "name": "Kabuto",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "type": [
-      "Rock",
-      "Water"
+      "Pedra",
+      "Água"
     ],
     "height": "0.51 m",
     "weight": "11.5 kg",
@@ -3803,10 +3803,10 @@
       2.37
     ],
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Ground"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Terra"
     ],
     "next_evolution": [{
       "num": "141",
@@ -3818,8 +3818,8 @@
     "name": "Kabutops",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
     "type": [
-      "Rock",
-      "Water"
+      "Pedra",
+      "Água"
     ],
     "height": "1.30 m",
     "weight": "40.5 kg",
@@ -3830,10 +3830,10 @@
     "spawn_time": "23:40",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass",
-      "Fighting",
-      "Ground"
+      "Elétrico",
+      "Grama",
+      "Lutador",
+      "Terra"
     ],
     "prev_evolution": [{
       "num": "140",
@@ -3845,8 +3845,8 @@
     "name": "Aerodactyl",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
     "type": [
-      "Rock",
-      "Flying"
+      "Pedra",
+      "Voador"
     ],
     "height": "1.80 m",
     "weight": "59.0 kg",
@@ -3857,11 +3857,11 @@
     "spawn_time": "23:40",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Electric",
-      "Ice",
-      "Rock",
-      "Steel"
+      "Água",
+      "Elétrico",
+      "Gelo",
+      "Pedra",
+      "Aço"
     ]
   }, {
     "id": 143,
@@ -3880,7 +3880,7 @@
     "spawn_time": "23:40",
     "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Lutador"
     ]
   }, {
     "id": 144,
@@ -3888,8 +3888,8 @@
     "name": "Articuno",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
     "type": [
-      "Ice",
-      "Flying"
+      "Gelo",
+      "Voador"
     ],
     "height": "1.70 m",
     "weight": "55.4 kg",
@@ -3900,10 +3900,10 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Electric",
-      "Rock",
-      "Steel"
+      "Fogo",
+      "Elétrico",
+      "Pedra",
+      "Aço"
     ]
   }, {
     "id": 145,
@@ -3911,8 +3911,8 @@
     "name": "Zapdos",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
     "type": [
-      "Electric",
-      "Flying"
+      "Elétrico",
+      "Voador"
     ],
     "height": "1.60 m",
     "weight": "52.6 kg",
@@ -3923,8 +3923,8 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Ice",
-      "Rock"
+      "Gelo",
+      "Pedra"
     ]
   }, {
     "id": 146,
@@ -3932,8 +3932,8 @@
     "name": "Moltres",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
     "type": [
-      "Fire",
-      "Flying"
+      "Fogo",
+      "Voador"
     ],
     "height": "2.01 m",
     "weight": "60.0 kg",
@@ -3944,9 +3944,9 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Electric",
-      "Rock"
+      "Água",
+      "Elétrico",
+      "Pedra"
     ]
   }, {
     "id": 147,
@@ -3954,7 +3954,7 @@
     "name": "Dratini",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
     "type": [
-      "Dragon"
+      "Dragão"
     ],
     "height": "1.80 m",
     "weight": "3.3 kg",
@@ -3969,24 +3969,24 @@
       1.84
     ],
     "weaknesses": [
-      "Ice",
-      "Dragon",
-      "Fairy"
+      "Gelo",
+      "Dragão",
+      "Fada"
     ],
     "next_evolution": [{
       "num": "148",
-      "name": "Dragonair"
+      "name": "Dragãoair"
     }, {
       "num": "149",
-      "name": "Dragonite"
+      "name": "Dragãoite"
     }]
   }, {
     "id": 148,
     "num": "148",
-    "name": "Dragonair",
+    "name": "Dragãoair",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
     "type": [
-      "Dragon"
+      "Dragão"
     ],
     "height": "3.99 m",
     "weight": "16.5 kg",
@@ -3998,9 +3998,9 @@
     "spawn_time": "11:57",
     "multipliers": [2.05],
     "weaknesses": [
-      "Ice",
-      "Dragon",
-      "Fairy"
+      "Gelo",
+      "Dragão",
+      "Fada"
     ],
     "prev_evolution": [{
       "num": "147",
@@ -4008,16 +4008,16 @@
     }],
     "next_evolution": [{
       "num": "149",
-      "name": "Dragonite"
+      "name": "Dragãoite"
     }]
   }, {
     "id": 149,
     "num": "149",
-    "name": "Dragonite",
+    "name": "Dragãoite",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
     "type": [
-      "Dragon",
-      "Flying"
+      "Dragão",
+      "Voador"
     ],
     "height": "2.21 m",
     "weight": "210.0 kg",
@@ -4028,17 +4028,17 @@
     "spawn_time": "23:38",
     "multipliers": null,
     "weaknesses": [
-      "Ice",
-      "Rock",
-      "Dragon",
-      "Fairy"
+      "Gelo",
+      "Pedra",
+      "Dragão",
+      "Fada"
     ],
     "prev_evolution": [{
       "num": "147",
       "name": "Dratini"
     }, {
       "num": "148",
-      "name": "Dragonair"
+      "name": "Dragãoair"
     }]
   }, {
     "id": 150,
@@ -4046,7 +4046,7 @@
     "name": "Mewtwo",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "2.01 m",
     "weight": "122.0 kg",
@@ -4057,9 +4057,9 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ]
   }, {
     "id": 151,
@@ -4067,7 +4067,7 @@
     "name": "Mew",
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
     "type": [
-      "Psychic"
+      "Psíquico"
     ],
     "height": "0.41 m",
     "weight": "4.0 kg",
@@ -4078,9 +4078,9 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Bug",
-      "Ghost",
-      "Dark"
+      "Inseto",
+      "Fantasma",
+      "Sombrio"
     ]
   }]
 }
