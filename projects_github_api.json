@@ -5,19 +5,30 @@
       "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/Coffee_Shop/main/cafeteria.png",
       "repoUrl": "https://github.com/teixeiradlucas/Coffee_Shop",
       "techStack": [
-        "BLOC",
         "FLUTTER",
+        "BLOC",
         "GO ROUTER"
       ],
       "youtubeUrl": "https://www.youtube.com/watch?v=M6dAq3UneuE"
+    },
+    {
+      "title": "Pokédex V1 consumindo API",
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/pokedex_consumindo_api/refs/heads/main/pokedex.png",
+      "repoUrl": "https://github.com/teixeiradlucas/pokedex_consumindo_api",
+      "techStack": [
+        "FLUTTER",
+        "RIVERPOD",
+        "API"
+      ],
+      "youtubeUrl": "https://www.youtube.com/shorts/m5CxU3M_tsw"
     },
     {
       "title": "Exemplos usando MOBX",
       "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/mobx_apps_flutter/main/mobx.png",
       "repoUrl": "https://github.com/teixeiradlucas/mobx_apps_flutter",
       "techStack": [
-        "MOBX",
-        "FLUTTER"
+        "FLUTTER",
+        "MOBX"
       ],
       "youtubeUrl": "https://youtube.com/shorts/lep54YCKiS8?si=46DXnvLGNs-sj2Zm"
     },
@@ -26,7 +37,8 @@
       "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/Invest_App/refs/heads/main/invest.png",
       "repoUrl": "https://github.com/teixeiradlucas/Invest_App",
       "techStack": [
-        "FLUTTER"
+        "FLUTTER",
+        "API"
       ],
       "youtubeUrl": "https://www.youtube.com/watch?v=1-8GRXGui3I"
     }
