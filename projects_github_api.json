@@ -41,6 +41,16 @@
         "API"
       ],
       "youtubeUrl": "https://www.youtube.com/watch?v=1-8GRXGui3I"
+    },
+    {
+      "title": "Currículo Responsivo",
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/responsive_portfolio/refs/heads/main/portfolio.png?token=GHSAT0AAAAAADR6HVBV3BO5GQSDTONXQUUQ2LQCDUA",
+      "repoUrl": "https://github.com/teixeiradlucas/responsive_portfolio",
+      "techStack": [
+        "FLUTTER",
+        "API"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=-gsWEQtJOoc"
     }
   ]
 }
