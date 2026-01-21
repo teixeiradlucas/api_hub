@@ -2,28 +2,55 @@
   "projects": [
     {
       "title": "Coffe Shop",
-      "imageUrl": "https://wsrv.nl/?url=raw.githubusercontent.com/teixeiradlucas/Coffee_Shop/main/cafeteria.png&w=400",
-      "repoUrl": "https://github.com/teixeiradlucas/Coffee_Shop"
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/Coffee_Shop/main/cafeteria.png",
+      "repoUrl": "https://github.com/teixeiradlucas/Coffee_Shop",
+      "techStack": [
+        "FLUTTER",
+        "BLOC",
+        "GO ROUTER"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=M6dAq3UneuE"
     },
     {
       "title": "Pokédex V1 consumindo API",
-      "imageUrl": "https://wsrv.nl/?url=raw.githubusercontent.com/teixeiradlucas/pokedex_consumindo_api/main/pokedex.png&w=400",
-      "repoUrl": "https://github.com/teixeiradlucas/pokedex_consumindo_api"
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/pokedex_consumindo_api/refs/heads/main/pokedex.png",
+      "repoUrl": "https://github.com/teixeiradlucas/pokedex_consumindo_api",
+      "techStack": [
+        "FLUTTER",
+        "RIVERPOD",
+        "API"
+      ],
+      "youtubeUrl": "https://www.youtube.com/shorts/m5CxU3M_tsw"
     },
     {
       "title": "Exemplos usando MOBX",
-      "imageUrl": "https://wsrv.nl/?url=raw.githubusercontent.com/teixeiradlucas/mobx_apps_flutter/main/mobx.png&w=400",
-      "repoUrl": "https://github.com/teixeiradlucas/mobx_apps_flutter"
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/mobx_apps_flutter/main/mobx.png",
+      "repoUrl": "https://github.com/teixeiradlucas/mobx_apps_flutter",
+      "techStack": [
+        "FLUTTER",
+        "MOBX"
+      ],
+      "youtubeUrl": "https://youtube.com/shorts/lep54YCKiS8?si=46DXnvLGNs-sj2Zm"
     },
     {
       "title": "Consulta de preço de ações da B3",
-      "imageUrl": "https://wsrv.nl/?url=raw.githubusercontent.com/teixeiradlucas/Invest_App/main/invest.png&w=400",
-      "repoUrl": "https://github.com/teixeiradlucas/Invest_App"
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/Invest_App/refs/heads/main/invest.png",
+      "repoUrl": "https://github.com/teixeiradlucas/Invest_App",
+      "techStack": [
+        "FLUTTER",
+        "API"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=1-8GRXGui3I"
     },
     {
       "title": "Currículo Responsivo",
-      "imageUrl": "https://wsrv.nl/?url=raw.githubusercontent.com/teixeiradlucas/responsive_portfolio/main/portfolio.png&w=400",
-      "repoUrl": "https://github.com/teixeiradlucas/responsive_portfolio"
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/responsive_portfolio/main/portfolio.png",
+      "repoUrl": "https://github.com/teixeiradlucas/responsive_portfolio",
+      "techStack": [
+        "FLUTTER",
+        "API"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=-gsWEQtJOoc"
     }
   ]
 }
