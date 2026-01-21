@@ -44,7 +44,7 @@
     },
     {
       "title": "Currículo Responsivo",
-      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/responsive_portfolio/refs/heads/main/portfolio.png?token=GHSAT0AAAAAADR6HVBUTU5X2VDGO3U65NNQ2LQCP7A",
+      "imageUrl": "https://raw.githubusercontent.com/teixeiradlucas/responsive_portfolio/refs/heads/main/portfolio.png",
       "repoUrl": "https://github.com/teixeiradlucas/responsive_portfolio",
       "techStack": [
         "FLUTTER",
